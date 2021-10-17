@@ -297,7 +297,7 @@ export default {
         }
       ],
       Korea,
-      selectedLocations: [],
+      selectedLocations: "",
       pointedLocation: null,
       tooltipStyle: null
     };
